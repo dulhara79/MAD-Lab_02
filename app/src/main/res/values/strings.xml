@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="greetind_header">Good Morning Dulhara,</string>
+    <string name="name">Dulhara Kaushalya</string>
+    <string name="p_coconut">Coconut</string>
+    <string name="homw_title">Home</string>
+    <string name="favourite_title">Favourite</string>
+    <string name="bag_title">Bag</string>
+    <string name="setting_title">Setting</string>
+    <string name="best_selling">Best Sellings</string>
+    <string name="desicated_coco">Desicated coconut</string>
+    <string name="coco_water">Coconut Water</string>
+    <string name="coco_oil">Coconut Oil</string>
+    <string name="v_coco_oil">Virgin Coconut Oil</string>
+    <string name="coco_toffee">Coconut Toffee</string>
+    <string name="coco_cream">Coconut Cream</string>
+    <string name="coconut">Coconut</string>
+    <string name="coco_kitchen_itm">Kitchen Items</string>
+    <string name="coco_milk">Coconut Milk</string>
+    <string name="welcome_txt">Welcome,</string>
+    <string name="get_start">Get Start</string>
+    <string name="search">Search here...</string>
+    <string name="login_email">e mail</string>
+    <string name="login_password">Pawword</string>
+    <string name="login_bttn">Log In</string>
+    <string name="forget_pw">Forgot Password?</string>
+    <string name="has_acc_sign_up">Haven’t account? Sign Up</string>
+    <string name="signupText">Sign Up</string>
+    <string name="username">username</string>
+    <string name="mobileno_txt">mobile no</string>
+    <string name="address_txt">Address</string>
+    <string name="dob_txt">DOB</string>
+    <string name="confirm_txt">Confirm</string>
+    <string name="or_txt">OR</string>
+    <string name="use_google_txt">Use Google Account</string>
+    <string name="use_fasebk_txt">Use Facebook Account</string>
+    <string name="ask_login">Already have an account? Login</string>
+    <string name="settings_txt">Settings</string>
+    <string name="gen_setting_txt">General</string>
+    <string name="name_txt">Full Name</string>
+    <string name="email_address_txt">E-mail Address</string>
+    <string name="set_address_txt">Address</string>
+    <string name="mobile_no_txt">Mobile Number</string>
+    <string name="email_val">dulhara.kaushalya@gmail.com</string>
+    <string name="full_name_val">Dulhara Kaushalya</string>
+    <string name="address_val">13/145/D,Malabe,Anuradhapura,Sri Lanka.</string>
+    <string name="mobil_val">0712564580</string>
+    <string name="dob_val">1889/10/32</string>
+    <string name="advance_sett_txt">Advance</string>
+    <string name="logout_button">LogOut</string>
+    <string name="rating">4.5</string>
+    <string name="price">LKR. 720.00</string>
+    <string name="coconut_description">Our premium coconut oil is crafted from the finest, fresh
+        coconuts, ensuring superior quality and purity. It\'s perfect for cooking, skincare, and
+        haircare, offering numerous health benefits. Cold-pressed and free from additives, our
+        coconut oil maintains its natural nutrients. Trust in our commitment to excellence and enjoy
+        the best coconut oil available.</string>
+    <string name="bag_topic">Bag</string>
+    <string name="v_coco_qty">2</string>
+    <string name="coco_price">LKR. 120.00</string>
+    <string name="pay_bttn">Pay</string>
+    <string name="fav_page_topic">Favourite</string>
+    <string name="onboard">Get Start</string>
+    <string name="get_strt_pg_1">Buy quality product</string>
+    <string name="next_txt">Next</string>
+    <string name="skip_txt">Skip</string>
+</resources>
+
+
+
+
